@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=matematico
+comment1.params=x\ y\ z
+comment1.target=java.lang.String\ calculaMayorMenorMedio(int,\ int,\ int)
+comment2.params=alt\ base
+comment2.target=double\ Area(double,\ double)
+comment3.params=punto1\ punto2
+comment3.target=double\ Distancia(Punto,\ Punto)
+comment4.params=punto
+comment4.target=java.lang.String\ Cuadrante(Punto)
+numComments=5
